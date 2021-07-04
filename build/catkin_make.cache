@@ -1,0 +1,2 @@
+obstacles
+-DCATKIN_DEVEL_PREFIX=/home/akanksha/repos/ros_hack/devel -DCMAKE_INSTALL_PREFIX=/home/akanksha/repos/ros_hack/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/akanksha/repos/ros_hack/devel
+
+Name: obstacles
+Description: Description of obstacles
+Version: 0.0.0
+Cflags: -I/home/akanksha/repos/ros_hack/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
